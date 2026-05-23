@@ -1,0 +1,3 @@
+This project named review_sentiment is the Machine learning project that demonstrate the use of scikit-learn library
+This model analyz the review and give the sentiment of that review
+That help the person to understand the user what the review emotions 
